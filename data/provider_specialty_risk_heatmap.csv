@@ -1,0 +1,97 @@
+provider_specialty,primary_risk_category,total_claims,total_cost,elderly_patients
+Family Practice,Falls/CNS Depression,15296969,208790386.0,1202420
+Internal Medicine,Falls/CNS Depression,13452562,183471427.77,1305291
+Nurse Practitioner,Falls/CNS Depression,11934282,221074227.56,1139780
+Internal Medicine,Bleeding,4921565,3094205441.86,438349
+Family Practice,Bleeding,4267091,2667090975.28,302603
+Family Practice,Respiratory Depression,3974154,115081587.71,296287
+Psychiatry,Falls/CNS Depression,3973128,88956780.46,309572
+Nurse Practitioner,Respiratory Depression,3788716,113762450.08,636005
+Cardiology,Bleeding,3788629,3714437081.58,398815
+Physician Assistant,Falls/CNS Depression,3607848,55678657.08,474363
+Family Practice,Hypoglycemia,3535388,439497451.31,226848
+Internal Medicine,Hypoglycemia,3502445,433890193.43,284846
+Nurse Practitioner,Bleeding,3085725,2148772841.39,272872
+Family Practice,Renal Injury,2926175,59446514.85,340237
+Internal Medicine,Respiratory Depression,2732723,83653691.78,221320
+Internal Medicine,Renal Injury,2439630,84137326.58,360643
+Physician Assistant,Respiratory Depression,2252437,63273328.93,526388
+Nurse Practitioner,Hypoglycemia,2063104,389751829.96,145179
+Neurology,Falls/CNS Depression,1832266,32400837.12,219361
+Nurse Practitioner,Renal Injury,1652194,38226789.09,214588
+Endocrinology,Hypoglycemia,1586450,520891042.77,202636
+Pain Management,Respiratory Depression,1390171,46191658.76,258211
+Physical Medicine and Rehabilitation,Respiratory Depression,1113754,41763931.2,165503
+Orthopedic Surgery,Renal Injury,1113346,13516056.24,320440
+Family Practice,Anticholinergic Burden,1020154,82301141.33,46050
+Physician Assistant,Renal Injury,977716,18213362.9,199498
+Physician Assistant,Bleeding,946907,769139284.62,98222
+Internal Medicine,Anticholinergic Burden,919079,89233397.33,56161
+Physical Medicine and Rehabilitation,Falls/CNS Depression,900444,14104696.05,151225
+Pain Management,Falls/CNS Depression,814021,12422717.09,172830
+Nurse Practitioner,Anticholinergic Burden,777035,120833352.06,55186
+Orthopedic Surgery,Respiratory Depression,770866,9228417.4,300380
+Family Practice,GI Toxicity,727769,7771981.17,90746
+Physician Assistant,Hypoglycemia,606247,120760040.93,42370
+Internal Medicine,GI Toxicity,578509,6140957.09,82324
+Orthopedic Surgery,Falls/CNS Depression,457575,3075244.93,149002
+Geriatric Medicine,Falls/CNS Depression,430250,7681741.13,52592
+Nurse Practitioner,Cognitive Impairment/Delirium,412705,8909227.46,13320
+Nurse Practitioner,GI Toxicity,393794,4013559.96,74844
+Physician Assistant,Anticholinergic Burden,300058,35703969.39,25625
+Psychiatry,Cognitive Impairment/Delirium,277809,7211289.58,17636
+Geriatric Medicine,Bleeding,265001,119847507.61,22170
+Internal Medicine,Cognitive Impairment/Delirium,254162,4837843.48,5982
+Physician Assistant,GI Toxicity,200100,1812386.77,56213
+Physical Medicine and Rehabilitation,Renal Injury,198238,6064782.58,43564
+Family Practice,Cognitive Impairment/Delirium,197137,3496105.77,3734
+Cardiology,Falls/CNS Depression,188693,2014349.85,21220
+Neurology,Respiratory Depression,136095,5598128.36,15487
+Pain Management,Renal Injury,129951,2895011.0,25631
+Endocrinology,Falls/CNS Depression,102064,1566618.25,8465
+Geriatric Medicine,Hypoglycemia,99533,8610238.09,7006
+Orthopedic Surgery,GI Toxicity,89869,714103.38,30481
+Geriatric Medicine,Respiratory Depression,66171,1788315.11,8189
+Neurology,Renal Injury,62643,3730491.89,9706
+Geriatric Medicine,Renal Injury,52562,1562781.04,8801
+Physician Assistant,Cognitive Impairment/Delirium,52154,1041668.37,1629
+Cardiology,Hypoglycemia,33598,2144121.23,2121
+Physical Medicine and Rehabilitation,Bleeding,30517,9203008.61,4439
+Cardiology,Renal Injury,29571,1671060.74,3608
+Geriatric Medicine,Cognitive Impairment/Delirium,27350,540538.89,1253
+Geriatric Medicine,Anticholinergic Burden,26555,1243533.45,1038
+Physical Medicine and Rehabilitation,GI Toxicity,23008,291177.05,3278
+Neurology,Bleeding,21998,16415609.99,1202
+Pain Management,GI Toxicity,18306,185333.09,2409
+Cardiology,Respiratory Depression,16344,493437.28,1707
+Neurology,Cognitive Impairment/Delirium,14543,181297.13,811
+Neurology,GI Toxicity,14210,163745.83,2099
+Orthopedic Surgery,Bleeding,8377,3180851.79,5651
+Psychiatry,Respiratory Depression,8133,657691.65,582
+Physical Medicine and Rehabilitation,Hypoglycemia,8053,470042.34,363
+Geriatric Medicine,GI Toxicity,7287,84796.36,1332
+Cardiology,GI Toxicity,7115,59053.25,1148
+Endocrinology,Bleeding,7104,5467672.26,473
+Cardiology,Anticholinergic Burden,6781,787318.67,283
+Endocrinology,Renal Injury,4971,141076.54,438
+Neurology,Anticholinergic Burden,4515,239952.29,130
+Endocrinology,Respiratory Depression,3777,314914.91,165
+Physical Medicine and Rehabilitation,Anticholinergic Burden,3608,85973.33,91
+Psychiatry,Renal Injury,3338,52240.71,307
+Psychiatry,Bleeding,2911,1059635.21,76
+Physical Medicine and Rehabilitation,Cognitive Impairment/Delirium,2877,40276.05,
+Endocrinology,Anticholinergic Burden,1734,70474.0,25
+Psychiatry,GI Toxicity,1525,10358.2,116
+Psychiatry,Hypoglycemia,1125,78782.33,57
+Cardiology,Cognitive Impairment/Delirium,916,16126.33,
+Psychiatry,Anticholinergic Burden,853,37551.82,
+Endocrinology,GI Toxicity,774,7733.22,19
+Pain Management,Bleeding,670,268327.25,
+Neurology,Hypoglycemia,613,16272.13,26
+Orthopedic Surgery,Hypoglycemia,524,29216.52,
+Pain Management,Hypoglycemia,276,22500.73,12
+Endocrinology,Cognitive Impairment/Delirium,245,3532.95,
+Pain Management,Anticholinergic Burden,119,1906.12,
+Orthopedic Surgery,Anticholinergic Burden,100,1987.94,
+Pain Management,Cognitive Impairment/Delirium,85,944.35,
+Orthopedic Surgery,Cognitive Impairment/Delirium,84,2418.72,
