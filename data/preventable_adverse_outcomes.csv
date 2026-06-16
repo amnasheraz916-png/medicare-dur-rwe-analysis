@@ -1,0 +1,9 @@
+primary_risk_category,implicated_drugs,total_claims,total_cost,affected_patients
+Falls/CNS Depression,13,59228707,931497175.76,6070129
+Respiratory Depression,4,20529445,602382041.55,3645044
+Bleeding,3,20194324,14837455490.57,1808491
+Hypoglycemia,6,12112351,1974279964.73,951490
+Renal Injury,3,11002129,275278967.49,1812945
+Anticholinergic Burden,4,4296999,587784703.83,336372
+GI Toxicity,3,3677157,40524159.14,1204466
+Cognitive Impairment/Delirium,1,1357344,28680227.21,49483
