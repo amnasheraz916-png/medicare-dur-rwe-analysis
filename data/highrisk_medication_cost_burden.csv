@@ -1,0 +1,21 @@
+generic_name,drug_class,total_cost,total_claims,cost_per_claim
+apixaban,doac anticoagulant,11574901663.0,13960741,829.1
+rivaroxaban,doac anticoagulant,3238136807.73,3573429,906.17
+"insulin glargine,hum.rec.anlog",hypoglycemic hormone,915433027.3,3914285,233.87
+insulin degludec,insulin analog,641653560.99,813761,788.5
+budesonide/glycopyr/formoterol,corticosteroids/anticholinergic agents/bronchodilator,498707862.03,637926,781.76
+gabapentin,anticonvulsant/neuropathic pain agent,313921043.18,21547858,14.57
+hydrocodone/acetaminophen,opioid analgesic,231216392.89,11088600,20.85
+insulin lispro,insulin analog,218874262.82,924630,236.72
+oxycodone hcl,opioid analgesic,188336664.23,3932588,47.89
+diclofenac sodium,nsaid,178670678.48,2825816,63.23
+oxycodone hcl/acetaminophen,opioid analgesic,149592166.08,4362353,34.29
+insulin aspart,insulin analog,135828877.53,642966,211.25
+aripiprazole,antipsychotic agents,121980708.33,1218052,100.14
+pregabalin,anticonvulsant/neuropathic pain agent,93795362.73,3388420,27.68
+buprenorphine hcl/naloxone hcl,opioid analgesic,84383653.32,554173,152.27
+quetiapine fumarate,atypical antipsychotic,75906043.06,4339344,17.49
+celecoxib,nsaid,72181086.92,2523714,28.6
+tramadol hcl,opioid analgesic,52571264.84,6430770,8.17
+oxybutynin chloride,antimuscarinic bladder agent,47035663.43,2329840,20.19
+glipizide,sulfonylurea,41603188.46,3538842,11.76
