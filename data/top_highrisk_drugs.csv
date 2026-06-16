@@ -1,1 +1,21 @@
-
+generic_name,drug_class,risk_level,total_claims,total_cost,total_patients
+gabapentin,anticonvulsant/neuropathic pain agent,Moderate-High,21547858,313921043.18,2853232
+apixaban,doac anticoagulant,Moderate-High,13960741,11574901663.0,1296513
+hydrocodone/acetaminophen,opioid analgesic,Moderate-High,11088600,231216392.89,2081941
+tramadol hcl,opioid analgesic,Moderate-High,6430770,52571264.84,950974
+alprazolam,benzodiazepine,High,6389990,37546789.03,504339
+meloxicam,nsaid,High,5652599,24427202.09,944918
+oxycodone hcl/acetaminophen,opioid analgesic,Moderate-High,4362353,149592166.08,750182
+quetiapine fumarate,atypical antipsychotic,Moderate-High,4339344,75906043.06,276993
+zolpidem tartrate,non-benzodiazepine hypnotic,High,4112116,33134960.68,325113
+clonazepam,benzodiazepine,High,4053176,31624011.43,218072
+oxycodone hcl,opioid analgesic,Moderate-High,3932588,188336664.23,709448
+"insulin glargine,hum.rec.anlog",hypoglycemic hormone,Moderate-High,3914285,915433027.3,266807
+lorazepam,benzodiazepine,Moderate-High,3734073,31048032.01,327164
+rivaroxaban,doac anticoagulant,Moderate-High,3573429,3238136807.73,307149
+glipizide,sulfonylurea,High,3538842,41603188.46,308400
+pregabalin,anticonvulsant/neuropathic pain agent,Moderate-High,3388420,93795362.73,335894
+diclofenac sodium,nsaid,High,2825816,178670678.48,507757
+warfarin sodium,vitamin k antagonist anticoagulant,Moderate-High,2660154,24417019.84,204829
+celecoxib,nsaid,High,2523714,72181086.92,360270
+oxybutynin chloride,antimuscarinic bladder agent,High,2329840,47035663.43,154418
