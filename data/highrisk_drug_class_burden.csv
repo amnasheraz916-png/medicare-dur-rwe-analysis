@@ -1,1 +1,17 @@
-
+drug_class,number_of_drugs,total_claims,total_cost,total_patients
+opioid analgesic,6,27514388,739336959.71,4635677
+anticonvulsant/neuropathic pain agent,2,24936278,407716405.91,3189126
+doac anticoagulant,2,17534170,14813038470.73,1603662
+benzodiazepine,5,16289538,119889282.41,1182778
+nsaid,6,14679286,315803126.63,3017411
+atypical antipsychotic,1,4339344,75906043.06,276993
+non-benzodiazepine hypnotic,1,4112116,33134960.68,325113
+antipsychotic agents,3,3923832,186575792.75,154969
+hypoglycemic hormone,1,3914285,915433027.3,266807
+sulfonylurea,1,3538842,41603188.46,308400
+vitamin k antagonist anticoagulant,1,2660154,24417019.84,204829
+insulin analog,3,2381357,996356701.34,152770
+antimuscarinic bladder agent,1,2329840,47035663.43,154418
+blood glucose lowering agents,1,2277867,20887047.63,223513
+anticholinergic agents,2,1329233,42041178.37,133645
+corticosteroids/anticholinergic agents/bronchodilator,1,637926,498707862.03,48309
