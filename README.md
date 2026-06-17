@@ -275,7 +275,30 @@ Includes:
 * Risk-level filters
 * Drug-class filters
 * Medication prioritization tools
+## Interactive Dashboard
 
+Explore the complete Tableau dashboard:
+
+🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/High-RiskMedicationUseinElderlyMedicarePatientsRWEDUR/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Dashboard Gallery
+
+### Executive Overview
+![Dashboard 1](dashboard/dashboard_1_executive_overview.png)
+
+### Drug Class Burden
+![Dashboard 2](dashboard/dashboard_2_drug_class_burden.png)
+
+### Top High-Risk Drugs
+![Dashboard 3](dashboard/dashboard_3_top_highrisk_drugs.png)
+
+### Provider Specialty Risk
+![Dashboard 4](dashboard/dashboard_4_provider_specialty_risk.png)
+
+### Preventable Adverse Outcomes
+![Dashboard 5](dashboard/dashboard_5_preventable_outcomes.png)
+
+### Deprescribing Opportunities
+![Dashboard 6](dashboard/dashboard_6_deprescribing_opportunities.png)
 ---
 
 ## Tools Used
